@@ -1,3 +1,4 @@
+package com.scanner.project;
 // TokenStream.java
 //Team5: Sophia Chau, Kara Cho
 // Implementation of the Scanner for JAY
