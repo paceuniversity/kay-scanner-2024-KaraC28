@@ -1,5 +1,5 @@
 // TokenStream.java
-
+//Team5: Sophia Chau, Kara Cho
 // Implementation of the Scanner for JAY
 
 // This code DOES NOT implement a scanner for JAY yet. You have to complete
