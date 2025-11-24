@@ -40,8 +40,7 @@ public class TokenStream {
 	}
 
 	public Token nextToken() { // Main function of the scanner
-								// Return next token type and value.
-		Token t = new Token();
+		Token t = new Token(); // Return next token type and value.
 		t.setType("Other"); // For now it is Other
 		t.setValue("");
 
